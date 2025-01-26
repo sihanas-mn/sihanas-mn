@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sihanas-mn
+- 👋 Hi, I’m Sihanas
 - 👀 I’m interested in Artificial intelligence development.
 - 🌱 I’m currently reading Higher National Diploma in Software Engineering.
 - 💞️ I’m looking to collaborate on passionate Artificial intelligence developers.
