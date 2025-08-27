@@ -35,13 +35,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 <!-- ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) -->
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sihanas-mn&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=sihanas-mn&theme=shadow_green&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sihanas-mn&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sihanas-mn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
