@@ -19,6 +19,18 @@
   ## 💰 You can help me by donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sihanas) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/sihanas) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sihanas) 
 
+<!--- Graph QL contribution code here --> 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/your-username/github-readme/main/output/contribs-dark.svg"
+  />
+  <img
+    alt="Isometric GitHub contribution chart"
+    src="https://raw.githubusercontent.com/your-username/github-readme/main/output/contribs-light.svg"
+  />
+</picture>
+
 <!---
 sihanas-mn/sihanas-mn is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 I can click the Preview link to take a look at your changes.
